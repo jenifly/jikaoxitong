@@ -1,0 +1,9 @@
+C:\Users\Jenifly\Desktop\jikaoxitong\Update\Update\bin\x86\Debug\Update.exe.config
+C:\Users\Jenifly\Desktop\jikaoxitong\Update\Update\bin\x86\Debug\Update.exe
+C:\Users\Jenifly\Desktop\jikaoxitong\Update\Update\bin\x86\Debug\Update.pdb
+C:\Users\Jenifly\Desktop\jikaoxitong\Update\Update\obj\x86\Debug\Update.csprojResolveAssemblyReference.cache
+C:\Users\Jenifly\Desktop\jikaoxitong\Update\Update\obj\x86\Debug\Update.Form1.resources
+C:\Users\Jenifly\Desktop\jikaoxitong\Update\Update\obj\x86\Debug\Update.Properties.Resources.resources
+C:\Users\Jenifly\Desktop\jikaoxitong\Update\Update\obj\x86\Debug\Update.csproj.GenerateResource.Cache
+C:\Users\Jenifly\Desktop\jikaoxitong\Update\Update\obj\x86\Debug\Update.exe
+C:\Users\Jenifly\Desktop\jikaoxitong\Update\Update\obj\x86\Debug\Update.pdb

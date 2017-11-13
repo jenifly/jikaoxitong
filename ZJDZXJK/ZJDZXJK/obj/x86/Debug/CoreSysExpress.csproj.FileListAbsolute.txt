@@ -1,0 +1,17 @@
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\CoreSysExpress\bin\x86\Debug\CoreSysExpress.exe.config
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\CoreSysExpress\bin\x86\Debug\CoreSysExpress.exe
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\CoreSysExpress\bin\x86\Debug\CoreSysExpress.pdb
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\CoreSysExpress\bin\x86\Debug\DSkin.Design.dll
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\CoreSysExpress\bin\x86\Debug\DSkin.dll
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\CoreSysExpress\obj\x86\Debug\CoreSysExpress.csprojResolveAssemblyReference.cache
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\CoreSysExpress\obj\x86\Debug\CoreSysExpress.ExportExcelF.resources
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\CoreSysExpress\obj\x86\Debug\CoreSysExpress.Check_QustionBank.resources
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\CoreSysExpress\obj\x86\Debug\CoreSysExpress.CheckInformation.resources
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\CoreSysExpress\obj\x86\Debug\CoreSysExpress.Admin.resources
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\CoreSysExpress\obj\x86\Debug\CoreSysExpress.Main.resources
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\CoreSysExpress\obj\x86\Debug\CoreSysExpress.Login.resources
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\CoreSysExpress\obj\x86\Debug\CoreSysExpress.Properties.Resources.resources
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\CoreSysExpress\obj\x86\Debug\CoreSysExpress.csproj.GenerateResource.Cache
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\CoreSysExpress\obj\x86\Debug\CoreSysExpress.exe
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\CoreSysExpress\obj\x86\Debug\CoreSysExpress.pdb
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\CoreSysExpress\bin\x86\Debug\MySql.Data.dll

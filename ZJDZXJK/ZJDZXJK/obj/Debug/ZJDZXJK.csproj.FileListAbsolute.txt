@@ -1,0 +1,14 @@
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\ZJDZXJK\obj\Debug\ZJDZXJK.csprojResolveAssemblyReference.cache
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\ZJDZXJK\obj\Debug\ZJDZXJK.QustionBank_Manager.resources
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\ZJDZXJK\obj\Debug\ZJDZXJK.Check_QustionBank.resources
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\ZJDZXJK\obj\Debug\ZJDZXJK.CheckInformation.resources
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\ZJDZXJK\obj\Debug\ZJDZXJK.Admin.resources
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\ZJDZXJK\obj\Debug\ZJDZXJK.Main.resources
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\ZJDZXJK\obj\Debug\ZJDZXJK.Login.resources
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\ZJDZXJK\obj\Debug\ZJDZXJK.Properties.Resources.resources
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\ZJDZXJK\obj\Debug\ZJDZXJK.csproj.GenerateResource.Cache
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\ZJDZXJK\bin\Debug\ZJDZXJK.exe.config
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\ZJDZXJK\bin\Debug\ZJDZXJK.exe
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\ZJDZXJK\bin\Debug\ZJDZXJK.pdb
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\ZJDZXJK\obj\Debug\ZJDZXJK.exe
+C:\Users\Jenifly\Desktop\jikaoxitong\CoreSysExpress\ZJDZXJK\obj\Debug\ZJDZXJK.pdb

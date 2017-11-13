@@ -1,0 +1,32 @@
+Dim arr(), x
+
+Private Sub CommandButton1_Click()
+   MsgBox Range("C" & arr(x)).Value, 0, "答案"
+End Sub
+
+Private Sub CommandButton2_Click()
+   x = x + 1
+   If x > UBound(arr) Then
+     If MsgBox("题库已答完，是否重新开始？", 1, "提示") = 1 Then
+        Init
+     Else
+        Exit Sub
+     End If
+   End If
+   Range("A2").Value = x & "、" & Range("B" & arr(x)).Value
+End Sub
+
+Public Sub Init()
+   ReDim arr(1 To UsedRange.Rows.Count)
+   For i = 1 To UBound(arr)
+      arr(i) = i
+   Next
+   For i = 1 To UBound(arr)
+      j = Int(Rnd * (151 - i)) + i
+      k = arr(i)
+      arr(i) = arr(j)
+      arr(j) = k
+   Next
+   x = 1
+   Range("A2").Value = x & "、" & Range("B" & arr(x)).Value
+End Sub
